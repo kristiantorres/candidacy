@@ -1,13 +1,14 @@
 # main text of home
 title: Kristian Torres Bautista
-bio: PhD student at the Univesity of Alberta. I conduct research under the guidance of [Prof. Mauricio Sacchi](https://sites.ualberta.ca/~msacchi/) that focuses on developing deep learning tools for solving inverse problems in seismic imaging and signal processing.
+bio: PhD student at the Univesity of Alberta. #I conduct research under the guidance of [Prof. Mauricio Sacchi](https://sites.ualberta.ca/~msacchi/) that focuses on developing deep learning tools for solving inverse problems in seismic imaging and signal processing.
 
 # twitter summary info
 description: I conduct research under the guidance of [Prof. Mauricio Sacchi](https://sites.ualberta.ca/~msacchi/) that focuses on developing deep learning tools for solving inverse problems in seismic imaging and signal processing.
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars.githubusercontent.com/u/40406561?v=4
+#assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
