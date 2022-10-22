@@ -1,5 +1,5 @@
 ---
-title: "Deep-learning-based LSRTM"
+title: "Deep-learning-based least-squares migration"
 layout: post
 date: 2016-01-23 22:10
 tag: deep-lsrtm
@@ -13,5 +13,7 @@ author: Kristian Torres
 externalLink: false
 ---
 
-# Deep-learning-based LSRTM
-asd
+* <p>Torres, K., and M. Sacchi. 2022. <a href="../assets/papers/Torres_Deep-LSRTM_2022.pdf" target="_blank">“Least-squares reverse time migration via deep learning-based updating operators:”</a> Geophysics, 87, S315–S333.</p>
+
+* <p>Torres, K., and M. Sacchi, 2021, <a href="../assets/papers/SEG_2021_Kristian.pdf" target="_blank">Deep learning based least-squares reverse-time migration</a>:
+First International Meeting for Applied Geoscience & Energy Expanded Abstracts, 2709–2713.
