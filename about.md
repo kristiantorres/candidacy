@@ -9,7 +9,7 @@ layout: page
 
 Before coming to the University of Alberta, I received a B.S. (2015) in geophysical engineering from Simon Bolivar University and an M.S. (2019) in computational geophysics from the Federal University of Rio de Janeiro.
 
-<h2>Research interests</h2>
+<!-- <h2>Research interests</h2> -->
 My current research topics include:
 <ul class="research_topics-list">
 	<li>Inverse problems</li>

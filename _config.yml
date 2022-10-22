@@ -1,6 +1,6 @@
 # main text of home
 title: Kristian Torres Bautista
-bio: PhD student @ the Univesity of Alberta
+bio: PhD student @ The Univesity of Alberta
 
 # twitter summary info
 #description: I conduct research under the guidance of [Prof. Mauricio Sacchi](https://sites.ualberta.ca/~msacchi/) that focuses on developing deep learning tools for solving inverse problems in seismic imaging and signal processing.
@@ -18,8 +18,8 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/cv/KristianTorres_CV_Sep2022.pdf
 
 url: https://kristiantorres.github.io/candidacy
 # your url: https://USERNAME.github.io
@@ -32,20 +32,20 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: []#[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
+linkedin: kristian-torres
+github: kristiantorres
 email: torresba@ualberta.ca
 
 authors:
   kristiantorres:
     name: Kristian Torres
-    bio: I conduct research under the guidance of [Prof. Mauricio Sacchi](https://sites.ualberta.ca/~msacchi/) that focuses on developing deep learning tools for solving inverse problems in seismic imaging and signal processing.
+    bio: PhD student @ The University of Alberta
     external-image: true
     picture: https://avatars.githubusercontent.com/u/40406561?v=4
     twitter: Kristia55312385
@@ -71,19 +71,19 @@ about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
